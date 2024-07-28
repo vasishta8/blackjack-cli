@@ -6,4 +6,4 @@ A simple version of Blackjack that runs on the CLI. Made with Python.
 ```
 git clone https://github.com/vasishta8/blackjack-cli
 python main.py
-``
+```
